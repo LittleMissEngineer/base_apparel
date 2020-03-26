@@ -1,0 +1,52 @@
+body{
+    background:url(images/bg-pattern-desktop.svg);
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+header{
+    margin-top: 5%;
+    margin-left: 7%;
+}
+
+
+.header_were{
+    color:hsl(0, 36%, 70%);
+    font-size: 3rem;
+    letter-spacing: 15px;
+    margin-top: 7%;
+    margin-bottom: 0px;
+    margin-left: 17%;
+    font-weight: 300;
+}
+
+.header_coming_soon{
+   color: hsl(0, 6%, 24%);
+   font-size: 3rem;
+   letter-spacing: 15px;
+   margin-bottom:30px;
+   margin-left: 17%; 
+   font-weight: 600;
+}
+
+.description{
+    color:hsl(0, 36%, 70%);
+    margin-left: 17%;
+    line-height: 2;
+}
+
+#email{
+    margin-left: 17%; 
+    border-radius: 13%;
+}
+
+button{
+    border-radius: 30%;
+   color: hsl(0, 80%, 86%), to hsl(0, 74%, 74%);
+}
+
+.image_class{
+    float:left;
+    margin-left:917.5px;
+    margin-top: -647px;
+    height:100%;
+}
